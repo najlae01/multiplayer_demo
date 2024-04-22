@@ -1,0 +1,25 @@
+# Ignore intermediate and Binaries files
+Intermediate/
+Binaries/
+DerivedDataCache/
+
+# Ignore saved files 
+Saved/
+
+# Ignore config files 
+Config/
+
+# Ignore platforms files 
+Platforms/
+
+
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
